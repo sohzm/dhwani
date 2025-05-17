@@ -6,3 +6,6 @@ minimal loopback audio capturer using miniaudio, records 100 ms chunks of your s
 ./build.sh
 ./build/linux/dhwani
 ```
+
+> [!NOTE]  
+> its not working on linux yet, im using it only to generate windows exe
