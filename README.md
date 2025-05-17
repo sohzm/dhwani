@@ -4,5 +4,5 @@ minimal loopback audio capturer using miniaudio, records 100 ms chunks of your s
 
 ```bash
 ./build.sh
-./build/linux/my_app
+./build/linux/dhwani
 ```
